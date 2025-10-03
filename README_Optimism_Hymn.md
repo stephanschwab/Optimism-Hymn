@@ -1,4 +1,5 @@
 # 🎶 Optimism Hymn — The Anthem of Public Goods
+📌 This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.  
 
 **A fully onchain, interactive anthem** celebrating the Optimism Collective and the spirit of retroactive public goods funding.
 
