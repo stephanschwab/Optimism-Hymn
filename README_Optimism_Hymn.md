@@ -22,3 +22,11 @@ Explore the broader ecosystem of Optimism public goods — books, NFTs, bots & m
 
 Built with ❤️ by a solo builder for the Optimism Collective.  
 Part of a broader RetroPGF contribution.
+
+## 🌍 BuildForGood Ecosystem  
+This project is part of the BuildForGood Ecosystem for Optimism.  
+
+📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
+
+🔗 Explore the full ecosystem: [BuildForGood Ecosystem on Optimism Atlas](https://atlas.optimism.io/profile/organizations/BuildForGood%20Ecosystem)
+---
